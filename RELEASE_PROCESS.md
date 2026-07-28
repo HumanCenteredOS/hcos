@@ -73,6 +73,17 @@ The Pull Request should also document whether the revision represents:
 - A documentation improvement
 - A major conceptual revision
 
+## Before Opening a Pull Request (short version)
+
+Before requesting review, please confirm that you have completed the steps described in **RELEASE_PROCESS.md**, including:
+
+- Updating the document version (if applicable)
+- Reviewing the content for accuracy and consistency
+- Updating the appropriate `CHANGELOG.md`
+- Preparing the revision for release
+
+The Pull Request template will guide you through the remaining release requirements.
+
 Reviewers should verify that the proposed revision:
 
 - Preserves human dignity.
