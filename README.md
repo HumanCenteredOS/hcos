@@ -179,3 +179,20 @@ TikTok
 **Protect with Wisdom, Compassion, and Presence.**
 
 **Help People Flourish.**
+
+## Development and Releases
+
+
+
+
+HCOS™ is a living standards framework that evolves through continuous review and improvement.
+
+All standards, prompts, instruments, examples, and supporting documentation follow the HCOS Release Process:
+
+> **Develop → Review → Commit → CHANGELOG → Git Tag → Release**
+
+The complete process, including versioning, review expectations, changelog requirements, Git tagging, and release guidance, is documented in:
+
+➡️ **[RELEASE_PROCESS.md](RELEASE_PROCESS.md)**
+
+This process helps preserve transparency, accountability, and traceability as the HCOS framework evolves.
