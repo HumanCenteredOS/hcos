@@ -46,3 +46,41 @@ Before publishing an HCOS release, confirm:
 ### Release Decision
 
 - [ ] This version is ready to be identified as a reviewed and referenceable HCOS release.
+
+---
+
+# GitHub Pull Request Integration
+
+Every proposed HCOS change should be submitted through a GitHub Pull Request whenever practical.
+
+The Pull Request serves as the documented review point before a change becomes an official HCOS release.
+
+Each Pull Request should include:
+
+- A clear description of the proposed change.
+- The purpose of the revision.
+- The affected standard(s), prompt(s), instrument(s), or supporting documents.
+- The proposed version number.
+- Confirmation that the Required Release Checklist has been completed.
+- Any known limitations or areas requiring future validation.
+
+The Pull Request should also document whether the revision represents:
+
+- A new standard
+- A clarification
+- A correction
+- A structural refactor
+- A documentation improvement
+- A major conceptual revision
+
+Reviewers should verify that the proposed revision:
+
+- Preserves human dignity.
+- Aligns with HCOS principles.
+- Maintains consistency with related standards.
+- Clearly communicates any assumptions or limitations.
+- Is appropriate for the proposed version number.
+
+Approval of a Pull Request indicates that the revision is ready to proceed through the remaining HCOS release process.
+
+A Pull Request does not replace formal review or validation. It documents the collaborative review process leading to an official release.
