@@ -196,3 +196,7 @@ The complete process, including versioning, review expectations, changelog requi
 ➡️ **[RELEASE_PROCESS.md](RELEASE_PROCESS.md)**
 
 This process helps preserve transparency, accountability, and traceability as the HCOS framework evolves.
+
+## HCOS Ecosystem Architecture
+
+See the [HCOS Ecosystem Architecture](ecosystem-architecture/README.md) for an overview of how the HCOS repositories are organized and connected.
