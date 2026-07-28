@@ -103,3 +103,11 @@ Reviewers should verify that the proposed revision:
 Approval of a Pull Request indicates that the revision is ready to proceed through the remaining HCOS release process.
 
 A Pull Request does not replace formal review or validation. It documents the collaborative review process leading to an official release.
+
+## Step 5 — Git Tag
+
+Create a Git tag following the HCOS Versioning Standard.
+
+See:
+
+➡️ VERSIONING.md
