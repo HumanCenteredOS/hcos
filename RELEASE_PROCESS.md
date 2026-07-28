@@ -35,6 +35,27 @@ See:
 
 ➡️ REVIEW_STANDARD.md
 
+## Step 3 — Commit
+
+
+## Step 4 — CHANGELOG
+
+Update the standard-level CHANGELOG according to:
+
+➡️ CHANGELOG_GUIDELINES.md
+
+
+## Step 5 — Git Tag
+
+Create a Git tag following the HCOS Versioning Standard.
+
+See:
+
+➡️ VERSIONING.md
+
+## Step 6 — GitHub Release
+
+
 ## Required Release Checklist
 
 Before publishing an HCOS release, confirm:
@@ -104,10 +125,6 @@ Approval of a Pull Request indicates that the revision is ready to proceed throu
 
 A Pull Request does not replace formal review or validation. It documents the collaborative review process leading to an official release.
 
-## Step 5 — Git Tag
 
-Create a Git tag following the HCOS Versioning Standard.
 
-See:
 
-➡️ VERSIONING.md
