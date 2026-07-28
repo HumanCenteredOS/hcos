@@ -27,6 +27,14 @@ Example document header:
 **Version:** 1.1.0  
 **Last Updated:** July 2026
 
+## Step 2 — Review
+
+Review the document according to the HCOS Review Standard.
+
+See:
+
+➡️ REVIEW_STANDARD.md
+
 ## Required Release Checklist
 
 Before publishing an HCOS release, confirm:
